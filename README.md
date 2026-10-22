@@ -1,0 +1,2 @@
+# qurulish-os
+Doʻmbirobod residence
