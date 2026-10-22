@@ -1,0 +1,26 @@
+#!/usr/bin/env node
+'use strict';
+const fs = require('node:fs');
+const path = require('node:path');
+const crypto = require('node:crypto');
+const assert = require('node:assert/strict');
+const root = path.resolve(__dirname, '..');
+const sourcePath = path.join(root, 'legacy-index.html');
+const extractedPath = path.join(root, 'migration', 'legacy-embedded-db.json');
+const inventoryPath = path.join(root, 'migration', 'legacy-inventory.json');
+const source = fs.readFileSync(sourcePath);
+const html = source.toString('utf8');
+const match = html.match(/const DB=(\{.*?\});const F=DB\.F/s);
+assert.ok(match, 'Embedded const DB object not found in legacy-index.html');
+const embedded = JSON.parse(match[1]);
+const extracted = JSON.parse(fs.readFileSync(extractedPath, 'utf8'));
+const inventory = JSON.parse(fs.readFileSync(inventoryPath, 'utf8'));
+const sha = crypto.createHash('sha256').update(source).digest('hex');
+assert.equal(sha, inventory.source_sha256, 'Original HTML SHA-256 does not match inventory');
+assert.deepEqual(extracted, embedded, 'Extracted JSON differs from the embedded DB object');
+assert.equal(Object.keys(embedded.F).length, 16, 'Expected 16 original floors');
+console.log('PASS: legacy source checksum matches inventory');
+console.log('PASS: extracted JSON matches embedded DB object (parsed values)');
+console.log(`Original file: ${source.length.toLocaleString()} bytes · SHA-256 ${sha}`);
+console.log(`Embedded DB: ${Object.keys(embedded.F).length} floors · ${embedded.kont.length} contacts · ${embedded.fasad.length} facade rows · ${embedded.pt.length} summary-table rows`);
+console.log('NOT VERIFIED: browser localStorage export, semantic database migration, and runtime app flows.');

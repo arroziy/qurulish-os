@@ -1,0 +1,6443 @@
+{
+  "F": {
+    "1": {
+      "u": [
+        22,
+        24,
+        4,
+        0,
+        2,
+        1,
+        0,
+        31,
+        "🔴 Yuqori"
+      ],
+      "j": [
+        "24 ta yo‘q",
+        "22 ta yo‘q",
+        "bor",
+        "2 ta zal o‘rnatilmagan",
+        "2 ta zal o‘rnatilmagan",
+        "2 ta zal o‘rnatilmagan"
+      ],
+      "m": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        22,
+        0,
+        0,
+        0,
+        0
+      ],
+      "si": null,
+      "e": [
+        [
+          "Xonadon eshik",
+          22,
+          0,
+          0,
+          22
+        ],
+        [
+          "Zina eshik",
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          "Ko‘cha eshik",
+          1,
+          1,
+          0,
+          2
+        ],
+        [
+          "Avarinniy eshik",
+          0,
+          2,
+          0,
+          2
+        ]
+      ],
+      "en": [
+        "Xonadon eshik: 22 ta bor."
+      ],
+      "w": [],
+      "x": [
+        [
+          "Akfa",
+          "22 ta Akfa eshik va oyna yo‘q.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "Lift marmar tosh",
+          "1-zal va 2-zal tayyor.",
+          "Siz yuborgan matn"
+        ]
+      ]
+    },
+    "2": {
+      "u": [
+        24,
+        4,
+        4,
+        0,
+        2,
+        0,
+        0,
+        10,
+        "🟢 Past"
+      ],
+      "j": [
+        "24 ta bor",
+        "24 ta bor",
+        "20 ta bor, 4 ta yo‘q",
+        "2 ta zal chala",
+        "2 ta zal chala",
+        "2 ta zal chala"
+      ],
+      "m": [
+        0,
+        2,
+        0,
+        0.5,
+        0,
+        2,
+        0,
+        0.5,
+        0,
+        2,
+        0,
+        0.5,
+        4,
+        0,
+        0.5,
+        0,
+        0,
+        0
+      ],
+      "si": null,
+      "e": [
+        [
+          "Xonadon eshik",
+          24,
+          0,
+          0,
+          24
+        ],
+        [
+          "Zina eshik",
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          "Tanbur eshik",
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          "Avarinniy eshik",
+          0,
+          2,
+          0,
+          2
+        ],
+        [
+          "Koridor eshik",
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "en": [
+        "1 ta zapas eshik bor"
+      ],
+      "w": [
+        [
+          1,
+          "Siti",
+          3.29,
+          3.15,
+          3.31,
+          "7/7"
+        ],
+        [
+          2,
+          "Siti",
+          5,
+          4.91,
+          5.01,
+          "5/4"
+        ],
+        [
+          3,
+          "Siti",
+          4.47,
+          4.31,
+          4.49,
+          "11/5"
+        ],
+        [
+          4,
+          "Siti",
+          2.87,
+          2.81,
+          2.82,
+          "5/2"
+        ],
+        [
+          5,
+          "Siti",
+          2.9,
+          2.81,
+          2.92,
+          "3/6"
+        ],
+        [
+          6,
+          "Siti",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "Tanbur",
+          "Siti",
+          3.79,
+          3.74,
+          3.81,
+          "1/4"
+        ],
+        [
+          7,
+          "Siti",
+          2.98,
+          2.81,
+          3,
+          "8/9"
+        ],
+        [
+          8,
+          "Siti",
+          2.81,
+          2.81,
+          2.82,
+          "0"
+        ],
+        [
+          9,
+          "Siti",
+          4.5,
+          4.43,
+          4.55,
+          "3/5"
+        ],
+        [
+          10,
+          "Siti",
+          5,
+          4.94,
+          5.06,
+          "1/1"
+        ],
+        [
+          11,
+          "Siti",
+          3.22,
+          3.15,
+          3.24,
+          "2/4"
+        ],
+        [
+          12,
+          "Ofis",
+          3.28,
+          3.15,
+          3.29,
+          "7/7"
+        ],
+        [
+          13,
+          "Ofis",
+          4.99,
+          4.93,
+          5.02,
+          "2/5"
+        ],
+        [
+          14,
+          "Ofis",
+          4.51,
+          4.4,
+          4.52,
+          "3/4"
+        ],
+        [
+          15,
+          "Ofis",
+          2.89,
+          2.81,
+          2.92,
+          "4/4"
+        ],
+        [
+          16,
+          "Ofis",
+          2.96,
+          2.81,
+          2.97,
+          "6/8"
+        ],
+        [
+          "Tanbur",
+          "Ofis",
+          3.79,
+          3.74,
+          3.8,
+          "2/3"
+        ],
+        [
+          17,
+          "Ofis",
+          3.61,
+          3.53,
+          3.62,
+          "4/4"
+        ],
+        [
+          18,
+          "Ofis",
+          2.95,
+          2.81,
+          2.97,
+          "7/7"
+        ],
+        [
+          19,
+          "Ofis",
+          2.93,
+          2.81,
+          2.94,
+          "7/5"
+        ],
+        [
+          20,
+          "Ofis",
+          4.57,
+          4.38,
+          4.61,
+          "0/2"
+        ],
+        [
+          21,
+          "Ofis",
+          4.95,
+          4.78,
+          5.01,
+          "7/10"
+        ],
+        [
+          22,
+          "Ofis",
+          3.24,
+          3.15,
+          3.26,
+          "5/5"
+        ]
+      ],
+      "x": [
+        [
+          "Umumiy",
+          "1 ta zapas eshik bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "Gaz dachchik",
+          "4 ta gaz dachchik yo‘q.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C6",
+          "Alkafon bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C7",
+          "Toza.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C7A",
+          "Toza.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C8",
+          "Toza.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C9",
+          "Toza.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C10",
+          "Paddon; samarez; tosh; ekoplit 26 ta; truba (kichik); dimaxot tunuka; ekoplit chaspak; profil; kafel; megamix.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C86",
+          "Toza.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C87",
+          "Toza.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C88",
+          "Toza.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C89",
+          "Toza.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C89A",
+          "Toza.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C90",
+          "Toza.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C166",
+          "Sklad.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C167",
+          "Toza.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C167A",
+          "Eshik bor (zapas).",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C168",
+          "Toza.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C169",
+          "Rixsitilla kalit.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C170",
+          "Toza.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C246",
+          "Toza.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C247",
+          "Xitoylikni xonasi.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C248",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C249",
+          "Toza.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C249A",
+          "Kabel sim; kafel; Akfa.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C250",
+          "Akfa.",
+          "Siz yuborgan matn"
+        ]
+      ],
+      "wt": [
+        85.5,
+        83.17,
+        85.96
+      ],
+      "cmp": [
+        "✅ mos",
+        85.5,
+        83.17,
+        85.96,
+        "0.00 / 0.00 / 0.00"
+      ],
+      "pp": [
+        85.5,
+        83.17,
+        85.96
+      ]
+    },
+    "3": {
+      "ph": 7,
+      "u": [
+        24,
+        4,
+        2,
+        0,
+        2,
+        0,
+        2,
+        10,
+        "🟢 Past"
+      ],
+      "j": [
+        "24 ta bor",
+        "24 ta bor",
+        "4 ta yo‘q",
+        "2 ta zal chala",
+        "2 ta zal chala",
+        "2 ta zal chala"
+      ],
+      "m": [
+        0,
+        2,
+        0,
+        0.5,
+        0,
+        2,
+        0,
+        0.5,
+        0,
+        2,
+        0,
+        0.5,
+        4,
+        0,
+        0.5,
+        0,
+        0,
+        0
+      ],
+      "si": null,
+      "e": [
+        [
+          "Xonadon eshik",
+          22,
+          0,
+          2,
+          24
+        ],
+        [
+          "Zina eshik",
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          "Tanbur eshik",
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          "Avarinniy eshik",
+          0,
+          2,
+          0,
+          2
+        ],
+        [
+          "Koridor eshik",
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "en": [
+        "Xonadon eshik: 22 ta bor, 2 tasi o‘rnatilmagan."
+      ],
+      "w": [
+        [
+          1,
+          "Siti",
+          3.32,
+          3.275,
+          3.32,
+          "Ko‘rinma"
+        ],
+        [
+          2,
+          "Siti",
+          5.04,
+          4.94,
+          5.04,
+          "—"
+        ],
+        [
+          3,
+          "Siti",
+          4.53,
+          4.49,
+          4.53,
+          "—"
+        ],
+        [
+          4,
+          "Siti",
+          2.89,
+          2.89,
+          2.89,
+          "—"
+        ],
+        [
+          5,
+          "Siti",
+          2.92,
+          2.92,
+          2.92,
+          "—"
+        ],
+        [
+          6,
+          "Siti",
+          3.81,
+          3.76,
+          3.81,
+          "—"
+        ],
+        [
+          "Tanbur",
+          "Siti",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          7,
+          "Siti",
+          3,
+          2.94,
+          3,
+          "—"
+        ],
+        [
+          8,
+          "Siti",
+          2.82,
+          2.8,
+          2.82,
+          "—"
+        ],
+        [
+          9,
+          "Siti",
+          4.53,
+          4.53,
+          4.53,
+          "—"
+        ],
+        [
+          10,
+          "Siti",
+          5.04,
+          4.9,
+          5.04,
+          "—"
+        ],
+        [
+          11,
+          "Siti",
+          3.23,
+          3.23,
+          3.23,
+          "—"
+        ],
+        [
+          12,
+          "Ofis",
+          3.32,
+          3.28,
+          3.32,
+          "—"
+        ],
+        [
+          13,
+          "Ofis",
+          5.02,
+          5.02,
+          5.02,
+          "—"
+        ],
+        [
+          14,
+          "Ofis",
+          4.55,
+          4.55,
+          4.55,
+          "—"
+        ],
+        [
+          15,
+          "Ofis",
+          2.92,
+          2.87,
+          2.92,
+          "—"
+        ],
+        [
+          16,
+          "Ofis",
+          2.97,
+          2.95,
+          2.97,
+          "—"
+        ],
+        [
+          "Tanbur",
+          "Ofis",
+          2.64,
+          2.62,
+          2.64,
+          "—"
+        ],
+        [
+          17,
+          "Ofis",
+          3.81,
+          3.77,
+          3.81,
+          "—"
+        ],
+        [
+          18,
+          "Ofis",
+          2.97,
+          2.97,
+          2.97,
+          "—"
+        ],
+        [
+          19,
+          "Ofis",
+          2.94,
+          2.93,
+          2.94,
+          "—"
+        ],
+        [
+          20,
+          "Ofis",
+          4.55,
+          4.51,
+          4.55,
+          "—"
+        ],
+        [
+          21,
+          "Ofis",
+          5.02,
+          5.02,
+          5.02,
+          "—"
+        ],
+        [
+          22,
+          "Ofis",
+          3.25,
+          3.21,
+          3.25,
+          "—"
+        ]
+      ],
+      "x": [
+        [
+          "Umumiy",
+          "Paddon bor; Akfa oyna; 3 ta gipsokarton; gazablok bor; gaz dachechik 19G; eshik yo‘q; zalda musor.",
+          "Rasm"
+        ],
+        [
+          "Patalok",
+          "7 ta patalokda teshik bor.",
+          "Siz yuborgan matn"
+        ]
+      ],
+      "wt": [
+        85.09,
+        84.375,
+        85.09
+      ],
+      "cmp": [
+        "⚠️ farq bor",
+        85.09,
+        84.375,
+        85.09,
+        "+0.09 / +0.00 / -3.01"
+      ],
+      "pp": [
+        85,
+        84.37,
+        88.1
+      ]
+    },
+    "4": {
+      "u": [
+        24,
+        2,
+        0,
+        0,
+        1,
+        0,
+        1,
+        4,
+        "🟢 Past"
+      ],
+      "j": [
+        "24 ta bor",
+        "24 ta bor",
+        "bor",
+        "2 ta zal bor",
+        "2 ta zal o‘rnatilmagan",
+        "2 ta zal o‘rnatilmagan"
+      ],
+      "m": [
+        2,
+        0,
+        0,
+        1,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0.333,
+        1,
+        0,
+        7
+      ],
+      "si": null,
+      "e": [
+        [
+          "Xonadon eshik",
+          24,
+          0,
+          0,
+          24
+        ],
+        [
+          "Zina eshik",
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          "Tanbur eshik",
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          "Avarinniy eshik",
+          0,
+          1,
+          1,
+          2
+        ],
+        [
+          "Koridor eshik",
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "en": [
+        "3 ta propniy eshik bor",
+        "1 ta zapas eshik bor",
+        "1 ta 1,65 m koridor eshik bor",
+        "1 ta eshikning ruchkasi yo‘q"
+      ],
+      "w": [
+        [
+          1,
+          "Siti",
+          3.31,
+          3.15,
+          3.31,
+          "7/8"
+        ],
+        [
+          2,
+          "Siti",
+          5,
+          4.88,
+          5,
+          "9/6"
+        ],
+        [
+          3,
+          "Siti",
+          4.46,
+          4.27,
+          5,
+          "10/15"
+        ],
+        [
+          4,
+          "Siti",
+          2.87,
+          2.81,
+          2.89,
+          "3/3"
+        ],
+        [
+          5,
+          "Siti",
+          2.91,
+          2.81,
+          2.93,
+          "5/4"
+        ],
+        [
+          6,
+          "Siti",
+          3.81,
+          3.74,
+          3.82,
+          "3/4"
+        ],
+        [
+          "Tanbur",
+          "Siti",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          7,
+          "Siti",
+          2.99,
+          2.81,
+          3,
+          "8/9"
+        ],
+        [
+          8,
+          "Siti",
+          2.82,
+          2.82,
+          2.83,
+          "—"
+        ],
+        [
+          9,
+          "Siti",
+          4.48,
+          4.43,
+          4.53,
+          "2/3"
+        ],
+        [
+          10,
+          "Siti",
+          5.02,
+          4.98,
+          5.05,
+          "2/2"
+        ],
+        [
+          11,
+          "Siti",
+          3.2,
+          3.15,
+          3.2,
+          "3/3"
+        ],
+        [
+          12,
+          "Ofis",
+          3.3,
+          3.15,
+          3.3,
+          "7/7"
+        ],
+        [
+          13,
+          "Ofis",
+          5.02,
+          4.88,
+          5.02,
+          "8/6"
+        ],
+        [
+          14,
+          "Ofis",
+          4.48,
+          4.42,
+          4.51,
+          "3/3"
+        ],
+        [
+          15,
+          "Ofis",
+          2.92,
+          2.81,
+          2.92,
+          "4/5"
+        ],
+        [
+          16,
+          "Ofis",
+          2.95,
+          2.81,
+          2.97,
+          "7/7"
+        ],
+        [
+          "Tanbur",
+          "Ofis",
+          3.62,
+          3.6,
+          3.63,
+          "2/1"
+        ],
+        [
+          17,
+          "Ofis",
+          3.8,
+          3.74,
+          3.81,
+          "3/3"
+        ],
+        [
+          18,
+          "Ofis",
+          2.94,
+          2.81,
+          2.95,
+          "7/6"
+        ],
+        [
+          19,
+          "Ofis",
+          2.94,
+          2.81,
+          2.94,
+          "7/6"
+        ],
+        [
+          20,
+          "Ofis",
+          4.58,
+          4.38,
+          4.58,
+          "4/5"
+        ],
+        [
+          21,
+          "Ofis",
+          4.92,
+          4.78,
+          5,
+          "8/7"
+        ],
+        [
+          22,
+          "Ofis",
+          3.26,
+          3.15,
+          3.26,
+          "5/5"
+        ]
+      ],
+      "x": [
+        [
+          "C176",
+          "Balkon bor; musor bor.",
+          "Rasm"
+        ],
+        [
+          "C177",
+          "Gipsokarton bor; musor bor.",
+          "Rasm"
+        ],
+        [
+          "C177A",
+          "Zapas eshik; oyna; musor.",
+          "Rasm"
+        ],
+        [
+          "C178",
+          "Eshik; musor; 15 ta profil.",
+          "Rasm"
+        ],
+        [
+          "C179",
+          "Musor bor; balkon kafel singan.",
+          "Rasm"
+        ],
+        [
+          "C180",
+          "Panjara o‘rnatilmagan; gazablok bor; musor.",
+          "Rasm"
+        ],
+        [
+          "C96",
+          "Panjara bor; akfa oyna qo‘yilgan; kafel singan.",
+          "Rasm"
+        ],
+        [
+          "C97",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C98",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C99",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C99A",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C100",
+          "Balkon kafel singan; 3 ta gipsokarton; musor.",
+          "Rasm"
+        ],
+        [
+          "C176",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C177",
+          "Eshik bor; musor bor.",
+          "Rasm"
+        ],
+        [
+          "C177A",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C178",
+          "Gaz dachechik 4G; eshik bor; musor bor.",
+          "Rasm"
+        ],
+        [
+          "C179",
+          "Eshik bor; Akfa oyna qo‘yilmagan; musor.",
+          "Rasm"
+        ],
+        [
+          "C180",
+          "Kafel; gipsokarton; musor bor.",
+          "Rasm"
+        ],
+        [
+          "C256",
+          "0,5 qop Rodban; kafel bor; musor bor.",
+          "Rasm"
+        ],
+        [
+          "C257",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C258",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C259",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C259A",
+          "Panjara bor; musor bor.",
+          "Rasm"
+        ],
+        [
+          "Tanbur",
+          "Eshiklar qo‘yilmagan.",
+          "Rasm"
+        ]
+      ],
+      "wt": [
+        85.6,
+        83.19,
+        86.45
+      ],
+      "cmp": [
+        "⚠️ farq bor",
+        85.6,
+        83.19,
+        86.45,
+        "-1.79 / +2.81 / -1.98"
+      ],
+      "pp": [
+        87.39,
+        80.38,
+        88.43
+      ]
+    },
+    "5": {
+      "u": [
+        24,
+        3,
+        0,
+        0,
+        2,
+        0,
+        4,
+        9,
+        "🟢 Past"
+      ],
+      "j": [
+        "24 ta bor",
+        "24 ta bor",
+        "bor",
+        "2 ta zal bor",
+        "2 ta zal o‘rnatilmagan",
+        "2 ta zal o‘rnatilmagan"
+      ],
+      "m": [
+        2,
+        0,
+        0,
+        1,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0.333,
+        1,
+        0,
+        1
+      ],
+      "si": "Svetdan 1 tasi chala",
+      "e": [
+        [
+          "Xonadon eshik",
+          20,
+          0,
+          4,
+          24
+        ],
+        [
+          "Zina eshik",
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          "Tanbur eshik",
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          "Avarinniy eshik",
+          0,
+          2,
+          0,
+          2
+        ],
+        [
+          "Koridor eshik",
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "en": [],
+      "w": [
+        [
+          1,
+          "Siti",
+          3.31,
+          3.15,
+          3.31,
+          "8/7"
+        ],
+        [
+          2,
+          "Siti",
+          5.01,
+          4.89,
+          5.02,
+          "6/6"
+        ],
+        [
+          3,
+          "Siti",
+          4.49,
+          4.31,
+          4.5,
+          "8/10"
+        ],
+        [
+          4,
+          "Siti",
+          2.89,
+          2.81,
+          2.89,
+          "4/4"
+        ],
+        [
+          5,
+          "Siti",
+          2.91,
+          2.81,
+          2.92,
+          "5/5"
+        ],
+        [
+          6,
+          "Siti",
+          3.8,
+          3.74,
+          3.81,
+          "3/3"
+        ],
+        [
+          "Tanbur",
+          "Siti",
+          2.97,
+          2.81,
+          3,
+          "7/8"
+        ],
+        [
+          7,
+          "Siti",
+          2.83,
+          2.83,
+          2.83,
+          "—"
+        ],
+        [
+          8,
+          "Siti",
+          4.48,
+          4.43,
+          4.53,
+          "2/3"
+        ],
+        [
+          9,
+          "Siti",
+          5.02,
+          4.97,
+          5.06,
+          "3/2"
+        ],
+        [
+          10,
+          "Siti",
+          3.21,
+          3.15,
+          3.23,
+          "3/3"
+        ],
+        [
+          11,
+          "Siti",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          12,
+          "Ofis",
+          3.29,
+          3.15,
+          3.29,
+          "7/7"
+        ],
+        [
+          13,
+          "Ofis",
+          5,
+          4.94,
+          5.02,
+          "2/4"
+        ],
+        [
+          14,
+          "Ofis",
+          4.49,
+          4.43,
+          4.51,
+          "3/3"
+        ],
+        [
+          15,
+          "Ofis",
+          2.92,
+          2.81,
+          2.92,
+          "5/5"
+        ],
+        [
+          16,
+          "Ofis",
+          2.94,
+          2.81,
+          2.96,
+          "7/6"
+        ],
+        [
+          "Tanbur",
+          "Ofis",
+          3.63,
+          3.54,
+          3.64,
+          "7/3"
+        ],
+        [
+          17,
+          "Ofis",
+          3.78,
+          3.74,
+          3.8,
+          "3/2"
+        ],
+        [
+          18,
+          "Ofis",
+          2.94,
+          2.81,
+          2.96,
+          "6/6"
+        ],
+        [
+          19,
+          "Ofis",
+          2.94,
+          2.81,
+          2.94,
+          "6/6"
+        ],
+        [
+          20,
+          "Ofis",
+          4.56,
+          4.38,
+          4.59,
+          "11/8"
+        ],
+        [
+          21,
+          "Ofis",
+          4.95,
+          4.78,
+          4.99,
+          "8/9"
+        ],
+        [
+          22,
+          "Ofis",
+          3.24,
+          3.15,
+          3.25,
+          "4/5"
+        ]
+      ],
+      "x": [
+        [
+          "C21",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C22",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C22A",
+          "Eshik qo‘yilmagan.",
+          "Rasm"
+        ],
+        [
+          "C23",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C24",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C25",
+          "Panjara; Akfa oyna qo‘yilmagan.",
+          "Rasm"
+        ],
+        [
+          "C101",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C102",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C103",
+          "Konditsioner truba 2 ta.",
+          "Rasm"
+        ],
+        [
+          "C104",
+          "Eshik qo‘yilmagan; kafel; musor.",
+          "Rasm"
+        ],
+        [
+          "C104A",
+          "Profil; gipsokarton; musor bor.",
+          "Rasm"
+        ],
+        [
+          "C105",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C181",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C182",
+          "Armatura; kafel; musor.",
+          "Rasm"
+        ],
+        [
+          "C182A",
+          "Eshik qo‘yilmagan; musor bor.",
+          "Rasm"
+        ],
+        [
+          "C183",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C184",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C185",
+          "Kafel bor; musor bor.",
+          "Rasm"
+        ],
+        [
+          "C261",
+          "Balkon kafel singan; 200? tegamix; ...",
+          "Rasm"
+        ],
+        [
+          "C262",
+          "Kafel bor; musor bor.",
+          "Rasm"
+        ],
+        [
+          "C263",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C264",
+          "Eshik qo‘yilmagan; musor bor.",
+          "Rasm"
+        ],
+        [
+          "C264A",
+          "2 qop 200 bar bor; musor bor.",
+          "Rasm"
+        ],
+        [
+          "C265",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "Tanbur",
+          "Eshiklar yo‘q; zalda musor bor.",
+          "Rasm"
+        ]
+      ],
+      "wt": [
+        85.6,
+        83.25,
+        85.97
+      ],
+      "cmp": [
+        "⚠️ farq bor",
+        85.6,
+        83.25,
+        85.97,
+        "+0.14 / 0.00 / 0.00"
+      ],
+      "pp": [
+        85.46,
+        83.25,
+        85.97
+      ]
+    },
+    "6": {
+      "u": [
+        24,
+        5,
+        4,
+        0,
+        2,
+        0,
+        2,
+        13,
+        "🟡 O‘rta"
+      ],
+      "j": [
+        "24 ta bor",
+        "24 ta bor",
+        "bor",
+        "2 ta zal bor",
+        "2 ta zal o‘rnatilmagan",
+        "2 ta zal o‘rnatilmagan"
+      ],
+      "m": [
+        2,
+        0,
+        0,
+        1,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0.333,
+        0,
+        0,
+        0
+      ],
+      "si": null,
+      "e": [
+        [
+          "Xonadon eshik",
+          22,
+          0,
+          2,
+          24
+        ],
+        [
+          "Zina eshik",
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          "Tanbur eshik",
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          "Avarinniy eshik",
+          0,
+          2,
+          0,
+          2
+        ],
+        [
+          "Koridor eshik",
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "en": [],
+      "w": [
+        [
+          1,
+          "Siti",
+          3.31,
+          3.15,
+          3.31,
+          "7/7"
+        ],
+        [
+          2,
+          "Siti",
+          5,
+          4.9,
+          5.02,
+          "7/3"
+        ],
+        [
+          3,
+          "Siti",
+          4.44,
+          4.3,
+          4.47,
+          "8/5"
+        ],
+        [
+          4,
+          "Siti",
+          2.87,
+          2.81,
+          2.89,
+          "3/3"
+        ],
+        [
+          5,
+          "Siti",
+          2.9,
+          2.81,
+          2.92,
+          "4/4"
+        ],
+        [
+          6,
+          "Siti",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "Tanbur",
+          "Siti",
+          3.81,
+          3.74,
+          3.82,
+          "4/4"
+        ],
+        [
+          7,
+          "Siti",
+          2.97,
+          2.81,
+          3,
+          "8/8"
+        ],
+        [
+          8,
+          "Siti",
+          2.82,
+          2.81,
+          2.84,
+          "0"
+        ],
+        [
+          9,
+          "Siti",
+          4.48,
+          4.43,
+          4.52,
+          "4/2"
+        ],
+        [
+          10,
+          "Siti",
+          5.02,
+          4.97,
+          5.05,
+          "3/2"
+        ],
+        [
+          11,
+          "Siti",
+          3.21,
+          3.15,
+          3.23,
+          "3/3"
+        ],
+        [
+          12,
+          "Ofis",
+          3.29,
+          3.15,
+          3.29,
+          "7/7"
+        ],
+        [
+          13,
+          "Ofis",
+          4.93,
+          4.91,
+          5.02,
+          "1/1"
+        ],
+        [
+          14,
+          "Ofis",
+          4.49,
+          4.43,
+          4.52,
+          "3/3"
+        ],
+        [
+          15,
+          "Ofis",
+          2.91,
+          2.81,
+          2.92,
+          "5/5"
+        ],
+        [
+          16,
+          "Ofis",
+          2.95,
+          2.81,
+          2.97,
+          "6/7"
+        ],
+        [
+          "Tanbur",
+          "Ofis",
+          3.63,
+          3.54,
+          3.63,
+          "3/6"
+        ],
+        [
+          17,
+          "Ofis",
+          3.77,
+          3.74,
+          3.81,
+          "1/3"
+        ],
+        [
+          18,
+          "Ofis",
+          2.94,
+          2.81,
+          2.96,
+          "6/7"
+        ],
+        [
+          19,
+          "Ofis",
+          2.94,
+          2.81,
+          2.95,
+          "6/6"
+        ],
+        [
+          20,
+          "Ofis",
+          4.54,
+          4.38,
+          4.57,
+          "6/11"
+        ],
+        [
+          21,
+          "Ofis",
+          4.93,
+          4.78,
+          4.99,
+          "6/9"
+        ],
+        [
+          22,
+          "Ofis",
+          3.24,
+          3.15,
+          3.26,
+          "4/4"
+        ]
+      ],
+      "x": [
+        [
+          "C26",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C27",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C27A",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C28",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C29",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C30",
+          "P qo‘yilmagan; Akfa oyna qo‘yilmagan.",
+          "Rasm"
+        ],
+        [
+          "C106",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C107",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C108",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C109",
+          "Eshik o‘rnatilmagan.",
+          "Rasm"
+        ],
+        [
+          "C109A",
+          "Profil bor; musor bor.",
+          "Rasm"
+        ],
+        [
+          "C110",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C186",
+          "Temir bor; musor bor.",
+          "Rasm"
+        ],
+        [
+          "C187",
+          "Armatura; musor bor.",
+          "Rasm"
+        ],
+        [
+          "C187A",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C188",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C189",
+          "Kafel bor; musor bor.",
+          "Rasm"
+        ],
+        [
+          "C190",
+          "Kafel bor; musor bor.",
+          "Rasm"
+        ],
+        [
+          "C266",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C267",
+          "Kafel bor; musor bor.",
+          "Rasm"
+        ],
+        [
+          "C268",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C269",
+          "Eshik qo‘yilmagan; musor bor.",
+          "Rasm"
+        ],
+        [
+          "C269A",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C270",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "Tanbur",
+          "Eshiklari yo‘q; zalda musor bor.",
+          "Rasm"
+        ]
+      ],
+      "wt": [
+        85.39,
+        83.2,
+        85.96
+      ],
+      "cmp": [
+        "✅ mos",
+        85.39,
+        83.2,
+        85.96,
+        "0.00 / 0.00 / 0.00"
+      ],
+      "pp": [
+        85.39,
+        83.2,
+        85.96
+      ]
+    },
+    "7": {
+      "ph": 2,
+      "u": [
+        23,
+        5,
+        4,
+        0,
+        2,
+        0,
+        3,
+        14,
+        "🟡 O‘rta"
+      ],
+      "j": [
+        "24 ta bor",
+        "24 ta bor",
+        "bor",
+        "2 ta zal chala",
+        "2 ta zal o‘rnatilmagan",
+        "2 ta zal chala"
+      ],
+      "m": [
+        0,
+        2,
+        0,
+        0.5,
+        0,
+        2,
+        0,
+        0.5,
+        0,
+        0,
+        2,
+        0.0,
+        0,
+        0,
+        0.333,
+        0,
+        0,
+        0
+      ],
+      "si": null,
+      "e": [
+        [
+          "Xonadon eshik",
+          20,
+          0,
+          3,
+          23
+        ],
+        [
+          "Zina eshik",
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          "Tanbur eshik",
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          "Avarinniy eshik",
+          0,
+          2,
+          0,
+          2
+        ],
+        [
+          "Koridor eshik",
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "en": [],
+      "w": [
+        [
+          1,
+          "Siti",
+          3.3,
+          3.15,
+          3.31,
+          "7/8"
+        ],
+        [
+          2,
+          "Siti",
+          4.96,
+          4.9,
+          4.99,
+          "4/3"
+        ],
+        [
+          3,
+          "Siti",
+          4.47,
+          4.31,
+          4.5,
+          "8/9"
+        ],
+        [
+          4,
+          "Siti",
+          2.86,
+          2.81,
+          2.88,
+          "3/2"
+        ],
+        [
+          5,
+          "Siti",
+          2.91,
+          2.81,
+          2.92,
+          "4/6"
+        ],
+        [
+          6,
+          "Siti",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "Tanbur",
+          "Siti",
+          3.79,
+          3.74,
+          3.82,
+          "3/2"
+        ],
+        [
+          7,
+          "Siti",
+          2.99,
+          2.81,
+          3,
+          "7/10"
+        ],
+        [
+          8,
+          "Siti",
+          2.82,
+          2.81,
+          2.83,
+          "0"
+        ],
+        [
+          9,
+          "Siti",
+          4.46,
+          4.41,
+          4.53,
+          "2/2"
+        ],
+        [
+          10,
+          "Siti",
+          5,
+          4.98,
+          5.05,
+          "1/2"
+        ],
+        [
+          11,
+          "Siti",
+          3.21,
+          3.15,
+          3.21,
+          "3/2"
+        ],
+        [
+          12,
+          "Ofis",
+          3.28,
+          3.15,
+          3.3,
+          "6/7"
+        ],
+        [
+          13,
+          "Ofis",
+          4.97,
+          4.93,
+          5.03,
+          "3/2"
+        ],
+        [
+          14,
+          "Ofis",
+          4.5,
+          4.43,
+          4.53,
+          "3/3"
+        ],
+        [
+          15,
+          "Ofis",
+          2.91,
+          2.81,
+          2.92,
+          "6/5"
+        ],
+        [
+          16,
+          "Ofis",
+          2.93,
+          2.81,
+          2.97,
+          "6/7"
+        ],
+        [
+          "Tanbur",
+          "Ofis",
+          3.61,
+          3.53,
+          3.63,
+          "6/2"
+        ],
+        [
+          17,
+          "Ofis",
+          3.81,
+          3.74,
+          3.83,
+          "4/3"
+        ],
+        [
+          18,
+          "Ofis",
+          2.96,
+          2.81,
+          2.96,
+          "7/8"
+        ],
+        [
+          19,
+          "Ofis",
+          2.93,
+          2.81,
+          2.94,
+          "7/5"
+        ],
+        [
+          20,
+          "Ofis",
+          4.55,
+          4.38,
+          4.57,
+          "10/7"
+        ],
+        [
+          21,
+          "Ofis",
+          4.93,
+          4.78,
+          4.99,
+          "8/8"
+        ],
+        [
+          22,
+          "Ofis",
+          3.26,
+          3.15,
+          3.26,
+          "6/5"
+        ]
+      ],
+      "x": [
+        [
+          "C31",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C32",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C32A",
+          "Eshik qo‘yilmagan; musor bor.",
+          "Rasm"
+        ],
+        [
+          "C33",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C34",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C35",
+          "P qo‘yilmagan; A-0 qo‘yilmagan; musor.",
+          "Rasm"
+        ],
+        [
+          "C111",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C112",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C113",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C114",
+          "Eshik qo‘yilmagan; musor bor.",
+          "Rasm"
+        ],
+        [
+          "C114A",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C115",
+          "Gipsokarton; musor bor.",
+          "Rasm"
+        ],
+        [
+          "C191",
+          "Kafel; musor bor.",
+          "Rasm"
+        ],
+        [
+          "C192",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C192A",
+          "Eshik qo‘yilmagan; musor bor.",
+          "Rasm"
+        ],
+        [
+          "C193",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C194",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C195",
+          "Eshik va musor bor.",
+          "Rasm"
+        ],
+        [
+          "C271",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C272",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C273",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C274",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C275",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "Tanbur",
+          "Eshiklari yo‘q; zalda musor bor.",
+          "Rasm"
+        ],
+        [
+          "Patalok",
+          "2 ta patalokda teshik bor.",
+          "Siz yuborgan matn"
+        ]
+      ],
+      "wt": [
+        85.41,
+        83.21,
+        85.97
+      ],
+      "cmp": [
+        "✅ mos",
+        85.41,
+        83.21,
+        85.97,
+        "0.00 / 0.00 / +0.02"
+      ],
+      "pp": [
+        85.41,
+        83.21,
+        85.95
+      ]
+    },
+    "8": {
+      "u": [
+        24,
+        5,
+        4,
+        0,
+        1,
+        1,
+        4,
+        15,
+        "🟡 O‘rta"
+      ],
+      "j": [
+        "24 ta bor",
+        "24 ta bor",
+        "3 ta yo‘q",
+        "2 ta zal chala",
+        "2 ta zal o‘rnatilmagan",
+        "1-zal chala\n2-zal o‘rnatilmagan"
+      ],
+      "m": [
+        0,
+        2,
+        0,
+        0.5,
+        0,
+        1,
+        1,
+        0.25,
+        0,
+        0,
+        2,
+        0.0,
+        3,
+        0,
+        0.25,
+        1,
+        0,
+        0
+      ],
+      "si": "Signalizatsiyadan 1 tasi chala",
+      "e": [
+        [
+          "Xonadon eshik",
+          20,
+          0,
+          4,
+          24
+        ],
+        [
+          "Zina eshik",
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          "Tanbur eshik",
+          1,
+          1,
+          0,
+          2
+        ],
+        [
+          "Avarinniy eshik",
+          1,
+          1,
+          0,
+          2
+        ],
+        [
+          "Koridor eshik",
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "en": [],
+      "w": [
+        [
+          1,
+          "Siti",
+          3.3,
+          3.15,
+          3.31,
+          "7/8"
+        ],
+        [
+          2,
+          "Siti",
+          4.97,
+          4.9,
+          5,
+          "3/4"
+        ],
+        [
+          3,
+          "Siti",
+          4.47,
+          4.3,
+          4.5,
+          "8/9"
+        ],
+        [
+          4,
+          "Siti",
+          2.86,
+          2.81,
+          2.89,
+          "3/2"
+        ],
+        [
+          5,
+          "Siti",
+          2.91,
+          2.81,
+          2.92,
+          "6/4"
+        ],
+        [
+          6,
+          "Siti",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "Tanbur",
+          "Siti",
+          3.79,
+          3.74,
+          3.82,
+          "3/2"
+        ],
+        [
+          7,
+          "Siti",
+          2.98,
+          2.81,
+          3,
+          "7/10"
+        ],
+        [
+          8,
+          "Siti",
+          2.82,
+          2.81,
+          2.83,
+          "0"
+        ],
+        [
+          9,
+          "Siti",
+          4.46,
+          4.44,
+          4.53,
+          "2/2"
+        ],
+        [
+          10,
+          "Siti",
+          5,
+          4.98,
+          5.05,
+          "2/1"
+        ],
+        [
+          11,
+          "Siti",
+          3.21,
+          3.15,
+          3.22,
+          "2/4"
+        ],
+        [
+          12,
+          "Ofis",
+          3.26,
+          3.15,
+          3.3,
+          "6/5"
+        ],
+        [
+          13,
+          "Ofis",
+          4.96,
+          4.92,
+          5.02,
+          "2/2"
+        ],
+        [
+          14,
+          "Ofis",
+          4.49,
+          4.43,
+          4.52,
+          "3/3"
+        ],
+        [
+          15,
+          "Ofis",
+          2.91,
+          2.81,
+          2.91,
+          "3/4"
+        ],
+        [
+          16,
+          "Ofis",
+          2.94,
+          2.81,
+          2.96,
+          "6/6"
+        ],
+        [
+          "Tanbur",
+          "Ofis",
+          3.61,
+          3.53,
+          3.62,
+          "3/5"
+        ],
+        [
+          17,
+          "Ofis",
+          3.81,
+          3.74,
+          3.82,
+          "3/4"
+        ],
+        [
+          18,
+          "Ofis",
+          2.92,
+          2.81,
+          2.95,
+          "3/6"
+        ],
+        [
+          19,
+          "Ofis",
+          2.92,
+          2.81,
+          2.93,
+          "6/5"
+        ],
+        [
+          20,
+          "Ofis",
+          4.52,
+          4.38,
+          4.58,
+          "11/4"
+        ],
+        [
+          21,
+          "Ofis",
+          4.93,
+          4.78,
+          4.98,
+          "6/9"
+        ],
+        [
+          22,
+          "Ofis",
+          3.24,
+          3.15,
+          3.25,
+          "4/5"
+        ]
+      ],
+      "x": [
+        [
+          "C36",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C37",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C37A",
+          "Eshik qo‘yilmagan; musor bor.",
+          "Rasm"
+        ],
+        [
+          "C38",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C39",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C40",
+          "P qo‘yilmagan; A-0 qo‘yilmagan; kafel; musor.",
+          "Rasm"
+        ],
+        [
+          "C116",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C117",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C118",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C119",
+          "Musor bor; eshik qo‘yilmagan.",
+          "Rasm"
+        ],
+        [
+          "C119A",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C120",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C196",
+          "Kafel; musor bor.",
+          "Rasm"
+        ],
+        [
+          "C197",
+          "Ekoplit; gipsokarton; profil; ventilyatsiya.",
+          "Rasm"
+        ],
+        [
+          "C197A",
+          "Eshik qo‘yilmagan; C278? ishchi bor.",
+          "Rasm"
+        ],
+        [
+          "C198",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C199",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C200",
+          "Kafel; musor.",
+          "Rasm"
+        ],
+        [
+          "C276",
+          "Gaz dachechik yo‘q; musor bor.",
+          "Rasm"
+        ],
+        [
+          "C277",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C278",
+          "Musor bor.",
+          "Rasm"
+        ],
+        [
+          "C279",
+          "Eshik o‘rnatilmagan; musor bor.",
+          "Rasm"
+        ],
+        [
+          "C279A",
+          "Gaz dachechik yo‘q; musor bor.",
+          "Rasm"
+        ],
+        [
+          "C280",
+          "Gaz dachechik yo‘q; musor bor.",
+          "Rasm"
+        ],
+        [
+          "Tanbur",
+          "Eshiklar yo‘q; zalda musor bor.",
+          "Rasm"
+        ]
+      ],
+      "wt": [
+        85.28,
+        83.22,
+        85.91
+      ],
+      "cmp": [
+        "✅ mos",
+        85.28,
+        83.22,
+        85.91,
+        "0.00 / 0.00 / 0.00"
+      ],
+      "pp": [
+        85.28,
+        83.22,
+        85.91
+      ]
+    },
+    "9": {
+      "u": [
+        24,
+        6,
+        4,
+        0,
+        2,
+        0,
+        1,
+        13,
+        "🟡 O‘rta"
+      ],
+      "j": [
+        "24 ta bor",
+        "24 ta bor",
+        "bor",
+        "2 ta zal o‘rnatilmagan",
+        "2 ta zal o‘rnatilmagan",
+        "2 ta zal o‘rnatilmagan"
+      ],
+      "m": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      "si": null,
+      "e": [
+        [
+          "Xonadon eshik",
+          23,
+          0,
+          1,
+          24
+        ],
+        [
+          "Zina eshik",
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          "Tanbur eshik",
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          "Avarinniy eshik",
+          0,
+          2,
+          0,
+          2
+        ],
+        [
+          "Koridor eshik",
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "en": [],
+      "w": [
+        [
+          1,
+          "Siti",
+          3.31,
+          3.15,
+          3.31,
+          "7/9"
+        ],
+        [
+          2,
+          "Siti",
+          5,
+          4.91,
+          5.02,
+          "5/4"
+        ],
+        [
+          3,
+          "Siti",
+          4.45,
+          4.3,
+          4.47,
+          "9/5"
+        ],
+        [
+          4,
+          "Siti",
+          2.89,
+          2.81,
+          2.89,
+          "4/4"
+        ],
+        [
+          5,
+          "Siti",
+          2.9,
+          2.81,
+          2.92,
+          "3/5"
+        ],
+        [
+          6,
+          "Siti",
+          3.78,
+          3.74,
+          3.82,
+          "2/3"
+        ],
+        [
+          "Tanbur",
+          "Siti",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          7,
+          "Siti",
+          2.98,
+          2.81,
+          3,
+          "8/9"
+        ],
+        [
+          8,
+          "Siti",
+          2.82,
+          2.81,
+          2.83,
+          "0"
+        ],
+        [
+          9,
+          "Siti",
+          4.47,
+          4.44,
+          4.53,
+          "2/3"
+        ],
+        [
+          10,
+          "Siti",
+          5.02,
+          4.98,
+          5.06,
+          "2/3"
+        ],
+        [
+          11,
+          "Siti",
+          3.2,
+          3.15,
+          3.22,
+          "2/2"
+        ],
+        [
+          12,
+          "Ofis",
+          3.29,
+          3.15,
+          3.3,
+          "9/5"
+        ],
+        [
+          13,
+          "Ofis",
+          4.98,
+          4.92,
+          5.02,
+          "3/3"
+        ],
+        [
+          14,
+          "Ofis",
+          4.48,
+          4.43,
+          4.52,
+          "2/3"
+        ],
+        [
+          15,
+          "Ofis",
+          2.88,
+          2.81,
+          2.91,
+          "1/5"
+        ],
+        [
+          16,
+          "Ofis",
+          2.95,
+          2.81,
+          2.97,
+          "7/7"
+        ],
+        [
+          "Tanbur",
+          "Ofis",
+          3.62,
+          3.53,
+          3.62,
+          "4/4"
+        ],
+        [
+          17,
+          "Ofis",
+          3.82,
+          3.74,
+          3.82,
+          "4/3"
+        ],
+        [
+          18,
+          "Ofis",
+          2.91,
+          2.81,
+          2.96,
+          "3/6"
+        ],
+        [
+          19,
+          "Ofis",
+          2.91,
+          2.81,
+          2.92,
+          "5/5"
+        ],
+        [
+          20,
+          "Ofis",
+          4.53,
+          4.38,
+          4.58,
+          "7/9"
+        ],
+        [
+          21,
+          "Ofis",
+          4.91,
+          4.78,
+          4.98,
+          "7/7"
+        ],
+        [
+          22,
+          "Ofis",
+          3.25,
+          3.15,
+          3.25,
+          "5/5"
+        ]
+      ],
+      "x": [
+        [
+          "C201",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C202",
+          "Paddon va musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C202A",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C203",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C204",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C205",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C281",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C282",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C283",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C284",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C284A",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C285",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C41",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C42",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C42A",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C43",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C44",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C45",
+          "Panjara qo‘yilmagan; musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C121",
+          "Profil; 3 qop megamix; germetika; musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C122",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C123",
+          "Yopiq.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C124",
+          "Eshik qo‘yilmagan; musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C124A",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C125",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "Tanbur",
+          "Eshiklar qo‘yilmagan; zalda musor bor.",
+          "Siz yuborgan matn"
+        ]
+      ],
+      "wt": [
+        85.35,
+        83.23,
+        85.92
+      ],
+      "cmp": [
+        "⚠️ farq bor",
+        85.35,
+        83.23,
+        85.92,
+        "0.00 / 0.00 / -0.09"
+      ],
+      "pp": [
+        85.35,
+        83.23,
+        86.01
+      ]
+    },
+    "10": {
+      "u": [
+        24,
+        6,
+        4,
+        0,
+        2,
+        0,
+        2,
+        14,
+        "🟡 O‘rta"
+      ],
+      "j": [
+        "24 ta bor",
+        "24 ta bor",
+        "bor",
+        "2 ta zal o‘rnatilmagan",
+        "2 ta zal chala",
+        "2 ta zal chala"
+      ],
+      "m": [
+        0,
+        0,
+        2,
+        0.0,
+        0,
+        2,
+        0,
+        0.5,
+        0,
+        2,
+        0,
+        0.5,
+        0,
+        0,
+        0.333,
+        1,
+        1,
+        1
+      ],
+      "si": null,
+      "e": [
+        [
+          "Xonadon eshik",
+          22,
+          0,
+          2,
+          24
+        ],
+        [
+          "Zina eshik",
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          "Tanbur eshik",
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          "Avarinniy eshik",
+          0,
+          2,
+          0,
+          2
+        ],
+        [
+          "Koridor eshik",
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "en": [
+        "Xonadon eshik: 22 ta bor, 2 tasi o‘rnatilmagan."
+      ],
+      "w": [
+        [
+          1,
+          "Siti",
+          3.25,
+          3.18,
+          3.32,
+          "3/4"
+        ],
+        [
+          2,
+          "Siti",
+          5,
+          4.9,
+          5.02,
+          "4/5"
+        ],
+        [
+          3,
+          "Siti",
+          4.48,
+          4.3,
+          4.49,
+          "8/10"
+        ],
+        [
+          4,
+          "Siti",
+          2.9,
+          2.85,
+          2.91,
+          "3/3"
+        ],
+        [
+          5,
+          "Siti",
+          2.9,
+          2.85,
+          2.92,
+          "2/3"
+        ],
+        [
+          6,
+          "Siti",
+          3.82,
+          3.71,
+          3.83,
+          "5/5"
+        ],
+        [
+          "Tanbur",
+          "Siti",
+          3,
+          2.85,
+          3,
+          "7/7"
+        ],
+        [
+          7,
+          "Siti",
+          "qo‘yilmagan",
+          "qo‘yilmagan",
+          "qo‘yilmagan",
+          "—"
+        ],
+        [
+          8,
+          "Siti",
+          4.53,
+          4.43,
+          4.54,
+          "5/5"
+        ],
+        [
+          9,
+          "Siti",
+          5,
+          4.88,
+          5.06,
+          "8/5"
+        ],
+        [
+          10,
+          "Siti",
+          3.2,
+          3.18,
+          3.21,
+          "1/1"
+        ],
+        [
+          11,
+          "Siti",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          12,
+          "Ofis",
+          3.3,
+          3.18,
+          3.3,
+          "6/6"
+        ],
+        [
+          13,
+          "Ofis",
+          5.03,
+          4.88,
+          5.03,
+          "8/8"
+        ],
+        [
+          14,
+          "Ofis",
+          4.52,
+          4.43,
+          4.52,
+          "5/6"
+        ],
+        [
+          15,
+          "Ofis",
+          4.92,
+          2.85,
+          4.92,
+          "3/3"
+        ],
+        [
+          16,
+          "Ofis",
+          2.95,
+          2.85,
+          2.97,
+          "5/5"
+        ],
+        [
+          "Tanbur",
+          "Ofis",
+          3.63,
+          3.53,
+          3.63,
+          "5/5"
+        ],
+        [
+          17,
+          "Ofis",
+          3.8,
+          3.71,
+          3.81,
+          "4/5"
+        ],
+        [
+          18,
+          "Ofis",
+          2.95,
+          2.85,
+          2.97,
+          "5/5"
+        ],
+        [
+          19,
+          "Ofis",
+          2.91,
+          2.85,
+          2.93,
+          "3/3"
+        ],
+        [
+          20,
+          "Ofis",
+          4.6,
+          4.54,
+          4.6,
+          "3/12"
+        ],
+        [
+          21,
+          "Ofis",
+          4.95,
+          4.87,
+          4.99,
+          "2/6"
+        ],
+        [
+          22,
+          "Ofis",
+          3.24,
+          3.18,
+          3.25,
+          "3/3"
+        ]
+      ],
+      "x": [
+        [
+          "Umumiy",
+          "Ekoplit — 24 ta list; kafel bor; gazablok bor; Akfa oynak qo‘yilmagan; 5 ta eshik bor, o‘rnatilmagan; 19 ta eshik yo‘q; 1 ta panjara yo‘q; 1 ta panjara o‘rnatilmagan; xonalarda va zalda musor bor.",
+          "Siz yuborgan matn"
+        ]
+      ],
+      "wt": [
+        84.88,
+        80.85,
+        85.22
+      ],
+      "cmp": [
+        "⚠️ farq bor",
+        84.88,
+        80.85,
+        85.22,
+        "-2.00 / 0.00 / 0.00"
+      ],
+      "pp": [
+        86.88,
+        80.85,
+        85.22
+      ]
+    },
+    "11": {
+      "u": [
+        24,
+        8,
+        4,
+        0,
+        2,
+        0,
+        4,
+        18,
+        "🟡 O‘rta"
+      ],
+      "j": [
+        "24 ta yo‘q",
+        "24 ta bor",
+        "bor",
+        "2 ta zal o‘rnatilmagan",
+        "2 ta zal o‘rnatilmagan",
+        "2 ta zal o‘rnatilmagan"
+      ],
+      "m": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "si": null,
+      "e": [
+        [
+          "Xonadon eshik",
+          20,
+          0,
+          4,
+          24
+        ],
+        [
+          "Zina eshik",
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          "Tanbur eshik",
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          "Avarinniy eshik",
+          0,
+          2,
+          0,
+          2
+        ],
+        [
+          "Koridor eshik",
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "en": [
+        "Tanbur eshik bor — zapas"
+      ],
+      "w": [
+        [
+          1,
+          "Siti",
+          3.3,
+          3.15,
+          3.31,
+          "7/8"
+        ],
+        [
+          2,
+          "Siti",
+          4.99,
+          4.9,
+          4.99,
+          "6/4"
+        ],
+        [
+          3,
+          "Siti",
+          4.52,
+          4.31,
+          4.54,
+          "9/11"
+        ],
+        [
+          4,
+          "Siti",
+          2.9,
+          2.81,
+          2.9,
+          "5/4"
+        ],
+        [
+          5,
+          "Siti",
+          2.9,
+          2.81,
+          2.92,
+          "5/4"
+        ],
+        [
+          6,
+          "Siti",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "Tanbur",
+          "Siti",
+          3.82,
+          3.74,
+          3.83,
+          "4/4"
+        ],
+        [
+          7,
+          "Siti",
+          2.99,
+          2.81,
+          3,
+          "10/8"
+        ],
+        [
+          8,
+          "Siti",
+          2.82,
+          2.81,
+          2.83,
+          "0"
+        ],
+        [
+          9,
+          "Siti",
+          4.43,
+          4.41,
+          4.52,
+          "1/2"
+        ],
+        [
+          10,
+          "Siti",
+          5,
+          4.98,
+          5.09,
+          "0/3"
+        ],
+        [
+          11,
+          "Siti",
+          3.21,
+          3.15,
+          3.22,
+          "3/4"
+        ],
+        [
+          12,
+          "Ofis",
+          3.29,
+          3.15,
+          3.3,
+          "7/8"
+        ],
+        [
+          13,
+          "Ofis",
+          5,
+          4.93,
+          5.02,
+          "3/4"
+        ],
+        [
+          14,
+          "Ofis",
+          4.48,
+          4.43,
+          4.49,
+          "3/3"
+        ],
+        [
+          15,
+          "Ofis",
+          2.9,
+          2.81,
+          2.91,
+          "5/4"
+        ],
+        [
+          16,
+          "Ofis",
+          2.97,
+          2.81,
+          2.97,
+          "7/8"
+        ],
+        [
+          "Tanbur",
+          "Ofis",
+          3.61,
+          3.53,
+          3.63,
+          "5/3"
+        ],
+        [
+          17,
+          "Ofis",
+          3.79,
+          3.74,
+          3.8,
+          "3/2"
+        ],
+        [
+          18,
+          "Ofis",
+          2.95,
+          2.81,
+          2.96,
+          "8/6"
+        ],
+        [
+          19,
+          "Ofis",
+          2.93,
+          2.81,
+          2.93,
+          "5/6"
+        ],
+        [
+          20,
+          "Ofis",
+          4.51,
+          4.38,
+          4.59,
+          "6/6"
+        ],
+        [
+          21,
+          "Ofis",
+          4.91,
+          4.78,
+          4.98,
+          "6/7"
+        ],
+        [
+          22,
+          "Ofis",
+          3.25,
+          3.15,
+          3.25,
+          "5/5"
+        ]
+      ],
+      "x": [
+        [
+          "C51",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C52",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C52A",
+          "Eshik o‘rnatilmagan; musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C53",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C54",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C55",
+          "Akfa oynak qo‘yilmagan; panjara o‘rnatilmagan; gipsokarton; profil; 2 qop megamix; musor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C131",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C132",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C133",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C134",
+          "Eshik o‘rnatilmagan; musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C134A",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C135",
+          "Kafel bor; musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C211",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C212",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C212A",
+          "Eshik o‘rnatilmagan; musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C213",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C214",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "Tanbur",
+          "Eshik bor, zapas.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C215",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C291",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C292",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C293",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C294",
+          "Eshik o‘rnatilmagan; musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C294A",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "Zal",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "Patalok",
+          "1 ta patalokda teshik bor.",
+          "Siz yuborgan matn"
+        ]
+      ],
+      "wt": [
+        85.47,
+        83.21,
+        85.98
+      ],
+      "cmp": [
+        "✅ mos",
+        85.47,
+        83.21,
+        85.98,
+        "0.00 / 0.00 / 0.00"
+      ],
+      "pp": [
+        85.47,
+        83.21,
+        85.98
+      ],
+      "ph": 1
+    },
+    "12": {
+      "u": [
+        23,
+        22,
+        4,
+        0,
+        0,
+        0,
+        2,
+        28,
+        "🔴 Yuqori"
+      ],
+      "j": [
+        "24 ta yo‘q",
+        "24 ta bor",
+        "bor",
+        "2 ta zal o‘rnatilmagan",
+        "2 ta zal o‘rnatilmagan",
+        "2 ta zal o‘rnatilmagan"
+      ],
+      "m": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "si": null,
+      "e": [
+        [
+          "Xonadon eshik",
+          21,
+          0,
+          2,
+          23
+        ],
+        [
+          "Zina eshik",
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          "Tanbur eshik",
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          "Avarinniy eshik",
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          "Koridor eshik",
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "en": [
+        "Avarinniy eshik: 2 ta bor."
+      ],
+      "w": [
+        [
+          1,
+          "Siti",
+          3.31,
+          3.15,
+          3.33,
+          "9/7"
+        ],
+        [
+          2,
+          "Siti",
+          5,
+          4.9,
+          5.02,
+          "4/5"
+        ],
+        [
+          3,
+          "Siti",
+          4.51,
+          4.31,
+          4.53,
+          "9/12"
+        ],
+        [
+          4,
+          "Siti",
+          2.9,
+          2.81,
+          2.9,
+          "3/6"
+        ],
+        [
+          5,
+          "Siti",
+          2.91,
+          2.81,
+          2.92,
+          "5/5"
+        ],
+        [
+          6,
+          "Siti",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "Tanbur",
+          "Siti",
+          3.79,
+          3.74,
+          3.83,
+          "2/3"
+        ],
+        [
+          7,
+          "Siti",
+          2.99,
+          2.81,
+          3.01,
+          "10/7"
+        ],
+        [
+          8,
+          "Siti",
+          2.82,
+          2.81,
+          2.83,
+          "0"
+        ],
+        [
+          9,
+          "Siti",
+          4.48,
+          4.41,
+          4.54,
+          "3/3"
+        ],
+        [
+          10,
+          "Siti",
+          5.01,
+          4.98,
+          5.06,
+          "3/3"
+        ],
+        [
+          11,
+          "Siti",
+          3.21,
+          3.15,
+          3.21,
+          "3/3"
+        ],
+        [
+          12,
+          "Ofis",
+          3.31,
+          3.15,
+          3.33,
+          "7/9"
+        ],
+        [
+          13,
+          "Ofis",
+          4.98,
+          4.93,
+          5.04,
+          "3/3"
+        ],
+        [
+          14,
+          "Ofis",
+          4.49,
+          4.43,
+          4.49,
+          "3/3"
+        ],
+        [
+          15,
+          "Ofis",
+          2.87,
+          2.81,
+          2.91,
+          "2/4"
+        ],
+        [
+          16,
+          "Ofis",
+          2.96,
+          2.81,
+          2.97,
+          "7/8"
+        ],
+        [
+          "Tanbur",
+          "Ofis",
+          3.61,
+          3.53,
+          3.63,
+          "3/4"
+        ],
+        [
+          17,
+          "Ofis",
+          3.8,
+          3.74,
+          3.81,
+          "2/4"
+        ],
+        [
+          18,
+          "Ofis",
+          2.95,
+          2.81,
+          2.97,
+          "7/7"
+        ],
+        [
+          19,
+          "Ofis",
+          2.9,
+          2.81,
+          2.92,
+          "4/5"
+        ],
+        [
+          20,
+          "Ofis",
+          4.5,
+          4.38,
+          4.57,
+          "6/7"
+        ],
+        [
+          21,
+          "Ofis",
+          4.93,
+          4.78,
+          4.98,
+          "6/10"
+        ],
+        [
+          22,
+          "Ofis",
+          3.24,
+          3.15,
+          3.25,
+          "4/4"
+        ]
+      ],
+      "x": [
+        [
+          "C56",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C57",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C57A",
+          "Eshik o‘rnatilmagan; musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C58",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C59",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C60",
+          "Akfa oynak qo‘yilmagan; panjara qo‘yilmagan; gazablok; kafel; musor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C136",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C137",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C138",
+          "Kafel bor; musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C139",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C140",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C216",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C217",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C217A",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C218",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C219",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C220",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C296",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C297",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C298",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C299",
+          "Eshik o‘rnatilmagan; musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C299A",
+          "Kafel bor; musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C300",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "Zal",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "Patalok",
+          "1 ta patalokda teshik bor.",
+          "Siz yuborgan matn"
+        ]
+      ],
+      "wt": [
+        85.47,
+        83.21,
+        86.05
+      ],
+      "cmp": [
+        "✅ mos",
+        85.47,
+        83.21,
+        86.05,
+        "0.00 / 0.00 / 0.00"
+      ],
+      "pp": [
+        85.47,
+        83.21,
+        86.05
+      ],
+      "ph": 1
+    },
+    "13": {
+      "u": [
+        23,
+        22,
+        4,
+        0,
+        0,
+        0,
+        3,
+        29,
+        "🔴 Yuqori"
+      ],
+      "j": [
+        "24 ta yo‘q",
+        "24 ta bor",
+        "bor",
+        "2 ta zal o‘rnatilmagan",
+        "2 ta zal o‘rnatilmagan",
+        "2 ta zal o‘rnatilmagan"
+      ],
+      "m": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "si": null,
+      "e": [
+        [
+          "Xonadon eshik",
+          20,
+          0,
+          3,
+          23
+        ],
+        [
+          "Zina eshik",
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          "Tanbur eshik",
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          "Avarinniy eshik",
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          "Koridor eshik",
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "en": [
+        "Avarinniy eshik: 2 ta bor."
+      ],
+      "w": [
+        [
+          1,
+          "Siti",
+          3.3,
+          3.15,
+          3.31,
+          "7/8"
+        ],
+        [
+          2,
+          "Siti",
+          4.99,
+          4.9,
+          5,
+          "3/5"
+        ],
+        [
+          3,
+          "Siti",
+          4.5,
+          4.3,
+          4.53,
+          "9/10"
+        ],
+        [
+          4,
+          "Siti",
+          2.9,
+          2.81,
+          2.9,
+          "4/4"
+        ],
+        [
+          5,
+          "Siti",
+          2.9,
+          2.81,
+          2.92,
+          "5/4"
+        ],
+        [
+          6,
+          "Siti",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "Tanbur",
+          "Siti",
+          3.82,
+          3.74,
+          3.83,
+          "4/5"
+        ],
+        [
+          7,
+          "Siti",
+          2.92,
+          2.81,
+          3,
+          "6/9"
+        ],
+        [
+          8,
+          "Siti",
+          2.82,
+          2.81,
+          2.82,
+          "0"
+        ],
+        [
+          9,
+          "Siti",
+          5.02,
+          4.43,
+          5.07,
+          "2/1"
+        ],
+        [
+          10,
+          "Siti",
+          4.5,
+          4.97,
+          4.53,
+          "2/5"
+        ],
+        [
+          11,
+          "Siti",
+          3.19,
+          3.15,
+          3.22,
+          "2/2"
+        ],
+        [
+          12,
+          "Ofis",
+          3.3,
+          3.15,
+          3.31,
+          "7/8"
+        ],
+        [
+          13,
+          "Ofis",
+          4.96,
+          4.92,
+          5.05,
+          "3/1"
+        ],
+        [
+          14,
+          "Ofis",
+          4.5,
+          4.44,
+          4.53,
+          "3/3"
+        ],
+        [
+          15,
+          "Ofis",
+          2.89,
+          2.81,
+          3.01,
+          "4/4"
+        ],
+        [
+          16,
+          "Ofis",
+          2.95,
+          2.81,
+          2.92,
+          "8/5"
+        ],
+        [
+          "Tanbur",
+          "Ofis",
+          3.6,
+          3.53,
+          3.63,
+          "3/4"
+        ],
+        [
+          17,
+          "Ofis",
+          3.8,
+          3.74,
+          3.81,
+          "2/4"
+        ],
+        [
+          18,
+          "Ofis",
+          2.94,
+          2.81,
+          2.96,
+          "6/6"
+        ],
+        [
+          19,
+          "Ofis",
+          2.91,
+          2.81,
+          2.93,
+          "4/5"
+        ],
+        [
+          20,
+          "Ofis",
+          4.57,
+          4.38,
+          4.58,
+          "10/8"
+        ],
+        [
+          21,
+          "Ofis",
+          4.93,
+          4.78,
+          4.97,
+          "7/7"
+        ],
+        [
+          22,
+          "Ofis",
+          3.25,
+          3.15,
+          3.25,
+          "4/5"
+        ]
+      ],
+      "x": [
+        [
+          "C61",
+          "Kafel bor; musor bor; Alkafon germetika va anker; Qora kafel uch.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C62",
+          "Paddon bor; musor bor; Alkafon anker.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C62A",
+          "Eshik o‘rnatilmagan; musor bor; Akfaga gazablok; Pol teshik; Alkafon germetika va anker.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C63",
+          "Musor bor; Alkafon germetika va anker.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C64",
+          "Musor bor; Alkafon germetika va anker; Shaxta armatura kesilmagan.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C65",
+          "Panjara qo‘yilmagan; Akfa oynak qo‘yilmagan; temir bor; musor bor; Alkafon germetika va anker; 3 dona zina kafel.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C141",
+          "Musor bor; Alkafon germetika va anker.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C142",
+          "Musor bor; Pol teshik.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C143",
+          "Musor bor; Alkafon germetika va anker.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C144",
+          "Musor bor; lesa bor; Akfa eshik gazablok va anker; Alkafon germetika va anker.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C145",
+          "Musor bor; Alkafon germetika va anker.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C221",
+          "Musor bor; Profil bor 6 pachka; Kafel singan jigarrang; Perila svarka.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C222",
+          "Musor bor; shit bor; lesa bor; Germetika alkafon; Armatura kesish kerak.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C222A",
+          "Eshik o‘rnatilmagan; musor bor; Alkafon germetika; Kafel oq singan; Akfaga gazablok terish kerak; Pol keshik.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C223",
+          "Musor bor; Akfa eshik anker; Alkafon germetika.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C224",
+          "Musor bor; Alkafon germetika; Pol teshik; Akfa eshik anker.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C225",
+          "Eshik o‘rnatilmagan; kafel bor; musor bor; Alkafon germetika.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C301",
+          "Musor bor; Alkafon germetika.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C302",
+          "Musor bor; Pol teshik; Akfa anker.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C303",
+          "Musor bor; Alkafon germetika va anker.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C304",
+          "Eshik o‘rnatilmagan; musor bor; Akfa eshik gazablok; Kafel almashtirish seriy; Alkafon germetika.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C304A",
+          "Musor bor; Eshik usti 10 lik gazablok; Alkafon germetika va anker.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C305",
+          "Musor bor; Alkafon germetika va anker.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "Patalok",
+          "11 ta patalokda teshik bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "Svet",
+          "1 ta svet chala.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "Signalizatsiya",
+          "1 ta signalizatsiya chala.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "Koridor",
+          "Potalokga oq ugalok kerak; Oq ugalok kerak; Ekoplit ugalok kerak.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "1-Tanbur",
+          "Jigarrang kafel qoʻyish kerak; Kafel fuga qilinmagan; Qora kafel atkos avarinniy eshik.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "2-Tanbur",
+          "Qora kafel atkos avarinniy eshik; Kafel fuga qilinmagan.",
+          "Siz yuborgan matn"
+        ]
+      ],
+      "wt": [
+        85.46,
+        83.21,
+        86.08
+      ],
+      "cmp": [
+        "✅ mos",
+        85.46,
+        83.21,
+        86.08,
+        "0.00 / 0.00 / -0.05"
+      ],
+      "pp": [
+        85.46,
+        83.21,
+        86.13
+      ],
+      "ph": 11,
+      "ch": {
+        "s": 1,
+        "g": 1
+      }
+    },
+    "14": {
+      "u": [
+        23,
+        22,
+        4,
+        0,
+        0,
+        0,
+        3,
+        29,
+        "🔴 Yuqori"
+      ],
+      "j": [
+        "24 ta yo‘q",
+        "24 ta bor",
+        "bor",
+        "2 ta zal o‘rnatilmagan",
+        "2 ta zal o‘rnatilmagan",
+        "2 ta zal o‘rnatilmagan"
+      ],
+      "m": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "si": null,
+      "e": [
+        [
+          "Xonadon eshik",
+          20,
+          0,
+          3,
+          23
+        ],
+        [
+          "Zina eshik",
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          "Tanbur eshik",
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          "Avarinniy eshik",
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          "Koridor eshik",
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "en": [
+        "Avarinniy eshik: 2 ta bor."
+      ],
+      "w": [
+        [
+          1,
+          "Siti",
+          3.3,
+          3.15,
+          3.31,
+          "7/8"
+        ],
+        [
+          2,
+          "Siti",
+          5,
+          4.9,
+          5.04,
+          "4/4"
+        ],
+        [
+          3,
+          "Siti",
+          4.5,
+          4.3,
+          4.62,
+          "17/15"
+        ],
+        [
+          4,
+          "Siti",
+          2.89,
+          2.81,
+          2.9,
+          "3/3"
+        ],
+        [
+          5,
+          "Siti",
+          2.89,
+          2.81,
+          2.91,
+          "3/3"
+        ],
+        [
+          6,
+          "Siti",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "Tanbur",
+          "Siti",
+          3.81,
+          3.74,
+          3.83,
+          "2/5"
+        ],
+        [
+          7,
+          "Siti",
+          2.97,
+          2.81,
+          3,
+          "7/8"
+        ],
+        [
+          8,
+          "Siti",
+          2.82,
+          2.81,
+          2.83,
+          "0"
+        ],
+        [
+          9,
+          "Siti",
+          4.52,
+          4.43,
+          4.55,
+          "4/5"
+        ],
+        [
+          10,
+          "Siti",
+          5.01,
+          4.97,
+          5.07,
+          "3/1"
+        ],
+        [
+          11,
+          "Siti",
+          3.21,
+          3.15,
+          3.21,
+          "1/4"
+        ],
+        [
+          12,
+          "Ofis",
+          3.3,
+          3.15,
+          3.31,
+          "7/7"
+        ],
+        [
+          13,
+          "Ofis",
+          4.95,
+          4.92,
+          5.01,
+          "3/1"
+        ],
+        [
+          14,
+          "Ofis",
+          4.49,
+          4.44,
+          4.51,
+          "3/3"
+        ],
+        [
+          15,
+          "Ofis",
+          2.9,
+          2.81,
+          2.91,
+          "4/5"
+        ],
+        [
+          16,
+          "Ofis",
+          2.96,
+          2.81,
+          2.98,
+          "9/6"
+        ],
+        [
+          "Tanbur",
+          "Ofis",
+          3.6,
+          3.53,
+          3.63,
+          "4/4"
+        ],
+        [
+          17,
+          "Ofis",
+          3.77,
+          3.74,
+          3.8,
+          "1/2"
+        ],
+        [
+          18,
+          "Ofis",
+          2.96,
+          2.81,
+          2.97,
+          "8/6"
+        ],
+        [
+          19,
+          "Ofis",
+          2.92,
+          2.81,
+          2.92,
+          "5/5"
+        ],
+        [
+          20,
+          "Ofis",
+          4.49,
+          4.38,
+          4.56,
+          "3/7"
+        ],
+        [
+          21,
+          "Ofis",
+          4.96,
+          4.78,
+          5.01,
+          "7/10"
+        ],
+        [
+          22,
+          "Ofis",
+          3.24,
+          3.15,
+          3.25,
+          "4/5"
+        ]
+      ],
+      "x": [
+        [
+          "C66",
+          "5 qop shpaklofka; musor bor; Alkafon germetika va anker; Jigarrang kafel almashtirish; Panjara perila toʻgʻirlash kerak; Qora kafel atkos.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C67",
+          "Musor bor; Oq kafel alkafondi yoni; Alkafon germetika va anker.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C67A",
+          "Eshik o‘rnatilmagan; musor bor; Akfa eshik gazablok va anker; Pol teshik; Alkafon germetika va anker.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C68",
+          "Musor bor; Alkafon germetika va anker; Qora kafel atkos.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C69",
+          "Musor bor; Alkafon germetika va anker; Panjara perila toʻgʻirlash kerak.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C70",
+          "Panjara qo‘yilmagan; Akfa oynak qo‘yilmagan; gazablok; kafel; profil; paddon yog‘och; musor; balkon kafel yo‘q; Oq kafel kerak balkon.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C146",
+          "Musor bor; Kabel bor; Alkafon germetika va anker.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C147",
+          "Musor bor; Pol teshik.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C148",
+          "Musor bor; Armatura kesish kerak; Alkafon germetika va anker.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C149",
+          "Lesa bor; musor bor; Akfa  gazablok terish va anker; Alkafon germetika va anker.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C150",
+          "Musor bor; Alkafon germetika va anker.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C226",
+          "Musor bor; Alkafon germetika va anker; Bakon otkos qora kafel.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C227",
+          "Lesa bor; musor bor; Alkafon germetika va anker.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C227A",
+          "Eshik o‘rnatilmagan; musor bor; Akfa eshik gazablok va anker; Alkafon germetika va anker; Pol teshik.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C228",
+          "Lesa bor; musor bor; Alkafon germetika va anker; Akfa germetika.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C229",
+          "Musor bor; Alkafon germetika va anker; Akfa germetika.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C230",
+          "Musor bor; Alkafon germetika va anker; Balkon fasaf kafel germetika.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C306",
+          "Musor bor; Alkafon germetika va anker.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C307",
+          "Musor bor; Pol teshik.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C308",
+          "Musor bor; Alkafon germetika va anker.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C309",
+          "Eshik o‘rnatilmagan; musor bor; Akfa gazablok va anker; Alkafon germetika va anker; Pol teshik.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C309A",
+          "Musor bor; Alkafon germetika va anker.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C310",
+          "Musor bor; Alkafon germetika va anker; Qora kafel atkos; Oq kafel alkafondi yoni.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "Zal",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "Signalizatsiya",
+          "1 ta signalizatsiya chala.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "1-Tanbur",
+          "Kafel fuga qilinmagan; Jigarrang kafel; Qora kafel otkos avarinniy eshik; Fasad kafel germetika; Alkafon germetika.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "2-Tanbur",
+          "Alkafon germetika va anker; Kafel fuga qilinmagan; Qora kafel otkos avarinniy eshik; Jigarrang kafel almashtirish.",
+          "Siz yuborgan matn"
+        ]
+      ],
+      "wt": [
+        85.46,
+        83.21,
+        86.13
+      ],
+      "cmp": [
+        "✅ mos",
+        85.46,
+        83.21,
+        86.13,
+        "0.00 / 0.00 / 0.00"
+      ],
+      "pp": [
+        85.46,
+        83.21,
+        86.13
+      ],
+      "ch": {
+        "g": 1
+      }
+    },
+    "15": {
+      "u": [
+        23,
+        10,
+        4,
+        0,
+        0,
+        0,
+        4,
+        18,
+        "🟡 O‘rta"
+      ],
+      "j": [
+        "24 ta yo‘q",
+        "24 ta bor",
+        "bor",
+        "2 ta zal o‘rnatilmagan",
+        "2 ta zal o‘rnatilmagan",
+        "2 ta zal o‘rnatilmagan"
+      ],
+      "m": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "si": null,
+      "e": [
+        [
+          "Xonadon eshik",
+          20,
+          0,
+          4,
+          24
+        ],
+        [
+          "Zina eshik",
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          "Tanbur eshik",
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          "Avarinniy eshik",
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          "Koridor eshik",
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "en": [
+        "Xonadon eshik: 20 ta bor, 4 tasi o‘rnatilmagan.",
+        "Avarinniy eshik: 2 ta bor."
+      ],
+      "w": [
+        [
+          1,
+          "Siti",
+          3.3,
+          3.15,
+          3.31,
+          "7/7"
+        ],
+        [
+          2,
+          "Siti",
+          4.93,
+          4.9,
+          4.95,
+          "2/2"
+        ],
+        [
+          3,
+          "Siti",
+          4.5,
+          4.3,
+          4.61,
+          "16/15"
+        ],
+        [
+          4,
+          "Siti",
+          2.89,
+          2.81,
+          2.91,
+          "3/5"
+        ],
+        [
+          5,
+          "Siti",
+          2.86,
+          2.81,
+          2.9,
+          "3/2"
+        ],
+        [
+          6,
+          "Siti",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "Tanbur",
+          "Siti",
+          3.82,
+          3.74,
+          3.83,
+          "3/6"
+        ],
+        [
+          7,
+          "Siti",
+          2.97,
+          2.81,
+          3,
+          "9/7"
+        ],
+        [
+          8,
+          "Siti",
+          2.81,
+          2.81,
+          2.82,
+          "0"
+        ],
+        [
+          9,
+          "Siti",
+          4.52,
+          4.43,
+          4.54,
+          "6/5"
+        ],
+        [
+          10,
+          "Siti",
+          5.02,
+          4.97,
+          5.09,
+          "3/1"
+        ],
+        [
+          11,
+          "Siti",
+          3.2,
+          3.15,
+          3.2,
+          "2/2"
+        ],
+        [
+          12,
+          "Ofis",
+          3.3,
+          3.15,
+          3.3,
+          "6/7"
+        ],
+        [
+          13,
+          "Ofis",
+          4.95,
+          4.92,
+          5.02,
+          "1/2"
+        ],
+        [
+          14,
+          "Ofis",
+          4.47,
+          4.44,
+          4.54,
+          "2/2"
+        ],
+        [
+          15,
+          "Ofis",
+          2.89,
+          2.81,
+          2.91,
+          "4/3"
+        ],
+        [
+          16,
+          "Ofis",
+          2.96,
+          2.81,
+          2.97,
+          "7/7"
+        ],
+        [
+          "Tanbur",
+          "Ofis",
+          3.61,
+          3.53,
+          3.63,
+          "2/5"
+        ],
+        [
+          17,
+          "Ofis",
+          3.79,
+          3.74,
+          3.81,
+          "2/2"
+        ],
+        [
+          18,
+          "Ofis",
+          2.93,
+          2.81,
+          2.95,
+          "7/4"
+        ],
+        [
+          19,
+          "Ofis",
+          2.93,
+          2.81,
+          2.94,
+          "5/7"
+        ],
+        [
+          20,
+          "Ofis",
+          4.53,
+          4.38,
+          4.58,
+          "7/6"
+        ],
+        [
+          21,
+          "Ofis",
+          4.93,
+          4.78,
+          4.98,
+          "8/8"
+        ],
+        [
+          22,
+          "Ofis",
+          3.24,
+          3.15,
+          3.26,
+          "4/5"
+        ]
+      ],
+      "x": [
+        [
+          "C231",
+          "Kafel bor; musor bor; Alkafon germetika va anker; Panjara perila svarka.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C232",
+          "12 qop shtukaturka; musor bor; Fahferka kraska eshiklari; Alkafon germetika va anker.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C232A",
+          "Eshik o‘rnatilmagan; musor bor; Akfa gazablok va anker; Pol teshik; Alkafon germetika va anker; Akfa germetika.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C233",
+          "Musor bor; Alkafon germetika va anker; Qora kafel otkos.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C234",
+          "Musor bor; Alkafon germetika va anker; Qora kafel otkos.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C235",
+          "0,5 qop shpaklofka; yog‘och bor; musor bor; Alkafon germetika va anker.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "Tanbur",
+          "Zapas eshik bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C311",
+          "Lesa bor; musor bor; Alkafon germetika va anker; Armatura kesish kerak; Oq kafel almashtirish kerak.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C312",
+          "Musor bor; Pol teshik; Armatura kesish kerak.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C313",
+          "Musor bor; Alkafon germetika va anker; Qora kafel otkos; Panjara perila qiyshiq.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C314",
+          "Eshik o‘rnatilmagan; musor bor; Akfa gazablok va anker; Alkafon germetika va anker; Pol teshik.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C314A",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C315",
+          "Musor bor; Alkafon germetika va anker; Fahferka kraska eshiklari; Oq kafel alkafondi yoni; Panjara perila qiyshiq.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C71",
+          "3 qop rodban bor; musor bor; Alkafon germetika va anker.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C72",
+          "2,5 qop shpaklofka; musor bor; gazablok bor; Armatura kesish kerak; Alkafon germetika va anker; Oq kafel alkafondi yoni; Oq kafel almashtirish kerak.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C72A",
+          "Eshik o‘rnatilmagan; lesa bor; musor bor; Akfa gazablok va anker; Alkafon germetika va anker; Pol teshik; Akfa eshik germetika.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C73",
+          "Musor bor; Alkafon germetika va anker.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C74",
+          "Musor bor; Alkafon germetika va anker; Qora kafel otkos.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C75",
+          "Eshik yo‘q; panjara qo‘yilmagan; Akfa oynak qo‘yilmagan; santexnik truba; yog‘och; paddon; musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C151",
+          "Musor bor; Alkafon germetika va anker.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C152",
+          "Musor bor; Pol teshik.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C153",
+          "Musor bor; Alkafon germetika va anker.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C154",
+          "Musor bor; Akfa gazablok va anker; Alkafon germetika va anker; Fasad deraza otkos; Qora kafel otkos.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C155",
+          "Musor bor; Alkafon germetika va anker.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "Zal",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "Patalok",
+          "7 ta patalokda teshik bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "Koridor",
+          "Signalizatsiya qiyshiq; Lift tosh daborda ishlar potalok; Lift tosh daborda ishlar.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "1-Tanbur",
+          "Jigarrang kafel terish kerak; Kafel fuga qilinmagan; Qora kafel otkos avarinniy eshik; Alkafon germetika va anker.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "2-Tanbur",
+          "Kafel fuga qilinmagan; Qora kafel otkos avarinniy eshik; Alkafon germetika va anker.",
+          "Siz yuborgan matn"
+        ]
+      ],
+      "wt": [
+        85.35,
+        83.21,
+        86.05
+      ],
+      "cmp": [
+        "✅ mos",
+        85.35,
+        83.21,
+        86.05,
+        "0.00 / 0.00 / 0.00"
+      ],
+      "pp": [
+        85.35,
+        83.21,
+        86.05
+      ],
+      "ph": 7
+    },
+    "16": {
+      "u": [
+        23,
+        22,
+        4,
+        0,
+        0,
+        0,
+        3,
+        29,
+        "🟡 O‘rta"
+      ],
+      "j": [
+        "24 ta yo‘q",
+        "24 ta bor",
+        "bor",
+        "2 ta zal o‘rnatilmagan",
+        "2 ta zal o‘rnatilmagan",
+        "2 ta zal o‘rnatilmagan"
+      ],
+      "m": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        2
+      ],
+      "si": null,
+      "e": [
+        [
+          "Xonadon eshik",
+          20,
+          0,
+          3,
+          23
+        ],
+        [
+          "Zina eshik",
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          "Tanbur eshik",
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          "Avarinniy eshik",
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          "Koridor eshik",
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "en": [],
+      "w": [
+        [
+          1,
+          "Siti",
+          3.3,
+          3.15,
+          3.31,
+          "8/8"
+        ],
+        [
+          2,
+          "Siti",
+          4.92,
+          4.9,
+          4.99,
+          "1/1"
+        ],
+        [
+          3,
+          "Siti",
+          4.45,
+          4.3,
+          4.62,
+          "13/18"
+        ],
+        [
+          4,
+          "Siti",
+          2.9,
+          2.81,
+          2.91,
+          "4/5"
+        ],
+        [
+          5,
+          "Siti",
+          2.87,
+          2.81,
+          2.9,
+          "3/4"
+        ],
+        [
+          6,
+          "Siti",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        [
+          "Tanbur",
+          "Siti",
+          3.81,
+          3.74,
+          3.83,
+          "4/4"
+        ],
+        [
+          7,
+          "Siti",
+          2.98,
+          2.81,
+          3.01,
+          "8/8"
+        ],
+        [
+          8,
+          "Siti",
+          2.81,
+          2.81,
+          2.83,
+          "0"
+        ],
+        [
+          9,
+          "Siti",
+          4.49,
+          4.43,
+          4.53,
+          "2/5"
+        ],
+        [
+          10,
+          "Siti",
+          4.97,
+          4.97,
+          5.02,
+          "4/3"
+        ],
+        [
+          11,
+          "Siti",
+          3.2,
+          3.15,
+          3.2,
+          "2/2"
+        ],
+        [
+          12,
+          "Ofis",
+          3.29,
+          3.15,
+          3.29,
+          "7/7"
+        ],
+        [
+          13,
+          "Ofis",
+          5.02,
+          4.92,
+          5.03,
+          "4/4"
+        ],
+        [
+          14,
+          "Ofis",
+          4.47,
+          4.44,
+          4.54,
+          "2/1"
+        ],
+        [
+          15,
+          "Ofis",
+          2.91,
+          2.81,
+          2.92,
+          "4/5"
+        ],
+        [
+          16,
+          "Ofis",
+          2.96,
+          2.81,
+          2.97,
+          "7/8"
+        ],
+        [
+          "Tanbur",
+          "Ofis",
+          3.62,
+          3.53,
+          3.63,
+          "4/4"
+        ],
+        [
+          17,
+          "Ofis",
+          3.8,
+          3.74,
+          3.81,
+          "3/2"
+        ],
+        [
+          18,
+          "Ofis",
+          2.94,
+          2.81,
+          2.95,
+          "8/5"
+        ],
+        [
+          19,
+          "Ofis",
+          2.92,
+          2.81,
+          2.92,
+          "5/5"
+        ],
+        [
+          20,
+          "Ofis",
+          4.52,
+          4.38,
+          4.6,
+          "6/7"
+        ],
+        [
+          21,
+          "Ofis",
+          4.91,
+          4.78,
+          4.97,
+          "3/10"
+        ],
+        [
+          22,
+          "Ofis",
+          3.24,
+          3.15,
+          3.24,
+          "3/5"
+        ]
+      ],
+      "x": [
+        [
+          "C236",
+          "Profil; gipsokarton; musor bor; Yopiq.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C237",
+          "5 qop shpaklofka; musor bor; Alkafon germetika va anker; Qora kafel otkos; Fasadniy shpaklofka bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C237A",
+          "Eshik o‘rnatilmagan; musor bor; Akfa gazablok va anker; Pol teshik; Alkafon germetika va anker; Oq kafel singan; Akfa germetika.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C238",
+          "Ekoplit — 2 list; musor bor; Alkafon germetika va anker; Qora kafel otkos.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C239",
+          "Lesa bor; 18 karobkada narsa bor; musor bor; Alkafon germetika va anker; Paraped kafelni toʻgʻirlash.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C240",
+          "Lesa bor; musor bor; Alkafon germetika va anker; Qora kafel otkos; Fahferka kraska eshiklari.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C316",
+          "Lesa bor; musor bor; Fahferka kraska eshiklari; Alkafon germetika va anker; Kafel germetika tozalash kerak.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C317",
+          "Temir bor; musor bor; Pol teshik.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C318",
+          "Musor bor; Alkafon germetika va anker.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C319",
+          "Eshik o‘rnatilmagan; musor bor; Akfa gazablok va anker; Akfa germetika; Pol teshik; Alkafon germetika va anker; Qora kafel otkos; Armatura kesish kerak.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C319A",
+          "Musor bor; Alkafon germetika va anker; Oq kafel almashtirish kerak.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C320",
+          "Musor bor; Alkafon germetika va anker; Jigarrang kafel alkafonfi yoni; Armatura kesish kerak; Qora kafel otkos.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C76",
+          "3 qop shpaklofka; musor bor; Alkafon germetika va anker; Jigarrang kafel almashtirish kerak; Panjara perila svarka qilinmagan.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C77",
+          "Musor bor; gazablok bor; Alkafon almashtirish kerak va germetika anker.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C77A",
+          "Eshik o‘rnatilmagan; musor bor; Akfa gazablok va anker; Akfa germetika; Alkafon germetika anker; Pol teshik; Oq kafel almashtirish kerak; Alkafon almashtirish kerak.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C78",
+          "Musor bor; Alkafon germetika anker; Oq kafel alkafondi yoni.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C79",
+          "Musor bor; Alkafon germetika anker; Balkon qora kafel eshik ustini almashtirish kerak.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C80",
+          "Panjara qo‘yilmagan; Akfa oynak qo‘yilmagan; temir bor; musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C156",
+          "Musor bor; Alkafon germetika va anker.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C157",
+          "Musor bor; Pol teshik.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C158",
+          "Lesa bor; musor bor; Alkafon germetika va anker.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C159",
+          "Lesa bor; musor bor; Akfa gazablok va anker; Akfa germetika; Alkafon germetika va anker.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "C160",
+          "Gipsokarton bor; musor bor; Yopiq.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "Zal",
+          "Musor bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "Patalok",
+          "2 ta patalokda teshik bor.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "Koridor",
+          "Lift toshi doborda ishlar.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "1-Tanbur",
+          "Jigarrang kafel qoʻyish kerak; Fasad kafel jigarrang germetika; Kafel fuga qilinmagan; Qora kafel otkos avarinniy eshik; Alkafon germetika va anker.",
+          "Siz yuborgan matn"
+        ],
+        [
+          "2-Tanbur",
+          "Jigarrang kafel almashtirish kerak; Potalok addelkasi chala; Qora kafel otkos avarinniy eshik; Kafel fuga qilinmagan; Alkafon germetika va anker.",
+          "Siz yuborgan matn"
+        ]
+      ],
+      "wt": [
+        85.3,
+        83.21,
+        86.02
+      ],
+      "cmp": [
+        "✅ mos",
+        85.3,
+        83.21,
+        86.02,
+        "0.00 / 0.00 / 0.00"
+      ],
+      "pp": [
+        85.3,
+        83.21,
+        86.02
+      ],
+      "ph": 2
+    }
+  },
+  "fasad": [
+    [
+      "Ko‘cha fasad",
+      "10 ta kafel singan.",
+      "Siz yuborgan matn"
+    ]
+  ],
+  "kont": [
+    [
+      "Boss",
+      null,
+      "+998935957888"
+    ],
+    [
+      "Doston",
+      "Elektrik",
+      "909270054"
+    ],
+    [
+      "Alisher aka",
+      "Akfa",
+      "+998 90 611 07 67"
+    ],
+    [
+      "Baxodir aka",
+      null,
+      "952127914"
+    ],
+    [
+      "Erkin aka",
+      "Elektrik BM",
+      "+998 94 129 07 19"
+    ],
+    [
+      "Lift marmar",
+      null,
+      "+998930890232"
+    ],
+    [
+      "Sherali aka",
+      "Prarap",
+      "+998936521666"
+    ],
+    [
+      "Farhod aka",
+      "Prarap",
+      "+998912109644"
+    ],
+    [
+      "Muslim aka",
+      "Prarap",
+      "997494720"
+    ],
+    [
+      "Muhsin aka",
+      "Prarap",
+      "943276066"
+    ],
+    [
+      "Zixsitilla",
+      "Kalit",
+      "+998 90 987 16 02"
+    ],
+    [
+      "Imom aka",
+      "TB",
+      "+998 94 635 52 73"
+    ],
+    [
+      "O‘tkir aka",
+      "Betonchi 1–3-blok",
+      "+998502203443"
+    ],
+    [
+      "Suxrob aka",
+      "Kran",
+      "900003014"
+    ],
+    [
+      "Farhod aka",
+      "Eshik",
+      "+998333101571"
+    ],
+    [
+      "Ko‘cha fasad",
+      null,
+      "+998954292000"
+    ],
+    [
+      "Elyor aka",
+      "Balkon",
+      "+998 99 749 99 11"
+    ],
+    [
+      "Aziz aka",
+      "Skladchi BM",
+      "+998 93 454 05 05"
+    ],
+    [
+      "Nodir aka",
+      "Sklad",
+      "+998903201494"
+    ],
+    [
+      "Izzat aka",
+      "Lift tosh",
+      "+998 97 753 33 88"
+    ],
+    [
+      "Kran 4 bino",
+      null,
+      "+998885410323"
+    ],
+    [
+      "Jasur aka",
+      "Kran 4 bino",
+      "+998937255655"
+    ]
+  ],
+  "pt": [
+    [
+      "📊 UMUMIY MA’LUMOTLAR"
+    ],
+    [
+      "1) Hisoblangan jami — jadvaldagi raqamlardan o‘zi hisoblanadi"
+    ],
+    [
+      "Etaj",
+      "Holat",
+      "Profil (m)",
+      "Stoyka (m)",
+      "Balkon (m)",
+      "Farq: hisoblangan − qo‘lda yozilgan (P / S / B)"
+    ],
+    [
+      "JAMI (hisoblangan)",
+      1280.61,
+      1246.955,
+      1288.76
+    ],
+    [
+      "2) Qog‘ozdagi (qo‘lda yozilgan) jami"
+    ],
+    [
+      "Etaj",
+      "Profil (m)",
+      "Stoyka (m)",
+      "Balkon (m)"
+    ],
+    [
+      "Etajlar yig‘indisi (qo‘lda)",
+      1284.17,
+      1244.14,
+      1293.87
+    ],
+    [
+      "1-BLOK UMUMIY YIG‘INDI (qog‘ozdagi oxirgi varaq)",
+      1284.17,
+      1244.14,
+      1293.87
+    ],
+    [
+      "Farq: hisoblangan − qog‘ozdagi yig‘indi",
+      -3.56,
+      2.815,
+      -5.11
+    ],
+    [
+      "Tekshiruv: etajlar yig‘indisi = yakuniy",
+      "✅",
+      "✅",
+      "✅"
+    ],
+    [
+      "Qo‘shimcha ma’lumot"
+    ],
+    [
+      "Raqam yozilgan o‘rinlar (Profil ustuni)",
+      344
+    ],
+    [
+      "O‘lchov yozilmagan o‘rinlar (? belgisi, Profil ustuni)",
+      15
+    ],
+    [
+      "Hisoblangan jami qog‘ozdagidan farq qilgan etajlar",
+      5
+    ],
+    [
+      "Izoh: ? belgisi — qog‘ozda shu o‘rinning o‘lchami yozilmagan (— ? —). Tanbur — tanbur eshigi/oynasi o‘lchami."
+    ],
+    [
+      "Izoh: 3-etaj 1-qatordagi zazor qog‘ozda «ko‘rinma» deb yozilgan; 10-etaj 7-qatorda «qo‘yilmagan» deb yozilgan."
+    ],
+    [
+      "Izoh: 4-etajda qo‘lda yozilgan jami bilan hisoblangan jami keskin farq qiladi (87,39 / 80,38 / 88,43), 10-etajda Profil jami 2,00 ga farq qiladi — qog‘ozdagi qo‘lda yig‘indi xatosi bo‘lishi mumkin, tekshirib ko‘ring."
+    ],
+    [
+      "Izoh: qo‘lda yozilgan raqamlar qiyin o‘qilgan joylarda qo‘lda yozilgan jami bilan solishtirib tuzatildi."
+    ]
+  ],
+  "fk": 10,
+  "izoh": [
+    "Eslatma",
+    "Qo‘lda yozilgan rasmlardagi ayrim so‘zlar noaniq ko‘ringani uchun imkon qadar o‘qib kiritildi. Noaniq joylarda mazmun saqlangan yoki savol belgisi bilan belgilangan."
+  ],
+  "mn": "Manba: foydalanuvchi yuborgan matn (etajlar bo‘yicha zallar holati, gaz dachchik 3-etaj: 4 ta, 8-etaj: 3 ta, gaz uchochik 1-etaj: 22 ta). Foizlar: (bor + chala × vazn) ÷ jami zal.",
+  "mhead": 0.5,
+  "dnote": "Eslatma: «Jami muammo» Umumiy varaqdan olinadi (svet, signalizatsiya, eshiklar). Gaz dachchik alohida ko‘rsatilgan — jami muammoga qo‘shilmagan. Material tayyorlik: chala zal vazni «Material holati» varag‘idagi D3 katakda.",
+  "jnote": "Ranglar: 🔴 o‘rnatilmagan / yo‘q · 🟡 chala · 🟢 bor. Raqamli hisob va foizlar «Material holati» va «Dashboard» varag‘ida."
+}
